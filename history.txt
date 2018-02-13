@@ -1,0 +1,72 @@
+  500  git
+  501  echo hi
+  500  echo hi
+  500  echo hi
+  500  echo hi
+  501  git
+  502  cd 
+  503  mkdir science
+  504  cd science/
+  505  nano thesis.txt
+  506  cat nano
+  507  cat thesis.txt 
+  508  git init
+  509  ls -a
+  510  git status
+  511  git add thesis.txt 
+  512  git status
+  513  git commit -m "started my thesis"
+  514  git config --global user.name "Emily Davenport"
+  515  git config --global core.editor "nano -w"
+  516  git config --global user.email "erdavenport@uwalumni.com"
+  517  git config --global color.ui "auto"
+  518  git config --list
+  519  ls
+  520  git statu
+  521  git status
+  522  nano thesis.txt 
+  523  cat thesis.txt 
+  524  git status
+  525  git add thesis.txt 
+  526  git status
+  527  git commit -m "discussed publication venue"
+  528  nano thesis.txt 
+  529  git status
+  530  git commit -m "notes about citations"
+  531  git add thesis.txt 
+  532  git commit -m "notes about citations"
+  533  git status
+  534  git log
+  535  ls
+  536  nano thesis.txt 
+  537  cat thesis.txt 
+  538  git checkout HEAD thesis.txt 
+  539  cat thesis.txt 
+  540  git checkout HEAD~1 thesis.txt 
+  541  cat thesis.txt 
+  542  git log
+  543  git checkout HEAD thesis.txt 
+  544  cat thesis.txt 
+  545  nano .gitignore
+  546  touch a.fastq
+  547  touch b.fastq
+  548  touch c.fastq
+  549  ls
+  550  git status
+  551  git add .gitignore 
+  552  git commit -m "added gitignore"
+  553  cd
+  554  cd Dropbox/Postdoc/TwinsUK/
+  555  ls
+  556  cd networks/
+  557  ls
+  558  cd scripts/
+  559  cd 
+  560  cd science/
+  561  ls
+  562  git status
+  563  git remote add origin https://github.com/erdavenport/science.git
+  564  git push -u origin master
+  565  git pull origin master
+  500  ssh ed379@cbsulogin.tc.cornell.edu
+  501  nano .bash_profile
