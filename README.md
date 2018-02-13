@@ -15,4 +15,9 @@ the paper's repository). Please contribute! Check it out here:
 
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
 
-After we run through things in code review, I'll put my command line history here:
+Here is a file that lists my entire command line history from the code review session,
+typos and all:
+https://raw.github.com/erdavenport/code_review_2018-02-13/master/history.txt
+
+Here is the link to my 'science' repo on github:
+https://github.com/erdavenport/science
