@@ -1,5 +1,5 @@
 # Clark lab code review
-# 2018-02-13
+## 2018-02-13
 
 If you'd like to walk through git lesson materials that cover setting up git, creating
 a repository, the add-commit cycle, how to explore your history of commits, how to ignore
